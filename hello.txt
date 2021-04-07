@@ -1,4 +1,11 @@
 1
 2
+<<<<<<< HEAD
+
+
+
 3
 master
+=======
+apple
+>>>>>>> apple
