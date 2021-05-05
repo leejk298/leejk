@@ -1,11 +1,5 @@
-1
-2
-<<<<<<< HEAD
+week07
+
+in class
 
 
-
-3
-master
-=======
-apple
->>>>>>> apple
